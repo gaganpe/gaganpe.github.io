@@ -31,6 +31,7 @@ bio: My interests include Computer Networks, Operating Systems, Image Processing
 interests:
   - Computer Networks
   - Cloud Computing
+  - Embedded Systems
   - Operating Systems
   - Computer Vision
 
@@ -92,31 +93,23 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/gaganpe
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/gaganpe747
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Gagan_PunathilEllath_Resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+  I am a master's student pursuing my Computer Engineering Degree at USC. My primary interests are Computer Networking and Embedded Systems. Before joining USC, I was working at Robert Bosch, India(RBEI - currently BGST) as a Software Engineer developing software for the Engine ECU Vehicle Communication Team. I am currently working as a Research Intern at USC Media Communications Lab (MCL) generating adversarial attacks for custom image classification pipelines.
+  I am currently looking for entry level full time jobs relevant to Computer Networks, Embedded Systems and Computer Vision. Please feel free to reach out to me if you feel like my skillset aligns with your requirement
 {style="text-align: justify;"}
